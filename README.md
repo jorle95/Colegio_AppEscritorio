@@ -1,7 +1,7 @@
 # Colegio_AppEscritorio
 Aplicación sencilla de escritorio en java utilizando jFrame y SQLite3 como base de datos, para control de estudiantes y docentes en un colegio, por medio del uso de la arquitectura MVC.
 
-https://github.com/jorle95/Colegio_AppEscritorio
+`https://github.com/jorle95/Colegio_AppEscritorio`
 
 [![Principal](https://jorle95.github.io/Colegio_AppEscritorio/Imagenes/Captura1.PNG "Principal")](https://jorle95.github.io/Colegio_AppEscritorio/Imagenes/Captura1.PNG "Principal")
 
